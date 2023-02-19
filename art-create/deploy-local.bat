@@ -1,1 +1,1 @@
-mvn deploy -DaltDeploymentRepository=local-repo::default::file:../../local-deploy -P release
+mvn deploy -DaltDeploymentRepository=local-repo::default::file:../docs -P release

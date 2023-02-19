@@ -1,0 +1,5 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# To make sure that the local repo has correct checksums
+docs/com/mihnita/**/*   binary
