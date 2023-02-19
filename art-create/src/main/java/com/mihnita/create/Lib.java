@@ -1,16 +1,9 @@
 package com.mihnita.create;
 
 /**
- * Hello world!
- *
+ * Hello world library
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println(sayHi());
-    }
-
+public class Lib {
     public static String sayHi() {
 		return sayHi(null);
 	}

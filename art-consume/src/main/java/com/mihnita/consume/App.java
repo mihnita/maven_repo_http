@@ -1,4 +1,4 @@
-package com.mihnita;
+package com.mihnita.consume;
 
 /**
  * Hello world!
